@@ -1,4 +1,4 @@
-package reallydan.musicrecyclerview;
+package reallydan.bandpeep;
 
 import org.junit.Test;
 

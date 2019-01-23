@@ -1,4 +1,4 @@
-package reallydan.musicrecyclerview;
+package reallydan.bandpeep;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("reallydan.musicrecyclerview", appContext.getPackageName());
+        assertEquals("reallydan.bandpeep", appContext.getPackageName());
     }
 }
