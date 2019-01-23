@@ -19,4 +19,4 @@
 
 # Download
 
-<a href="https://github.com/CalvinNor/GoodFeed/raw/develop/apk/GoodFeed%201.0.apk">Click here to download!</a>
+<a href="https://github.com/gitryder/BandPeep/raw/master/apk/BandPeep.apk">Click here to download!</a>
