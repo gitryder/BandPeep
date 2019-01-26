@@ -1,6 +1,7 @@
 # BandPeep
 
 * An Android application that shows a vertical list of Songs w/ their artists.
+* The purpose of the app is to demonstrate the best practice way of implementing a click listener on a RecyclerView
 * Tapping on an item toasts the name of the clicked item.
 
 # Technical Info
